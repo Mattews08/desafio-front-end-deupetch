@@ -1,6 +1,6 @@
 
 # Clone este repositório
-$ git clone <https://github.com/Mattews08/desafio-front-end>
+$ git clone <https://github.com/Mattews08/desafio-front-end-deupetch>
 
 ## Instalação
  1 - Apos clonar o projeto execute npm install ou yarn install para instalação da dependências
